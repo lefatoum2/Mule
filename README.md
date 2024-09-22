@@ -32,3 +32,4 @@ var a2 = {"Chris":2, "Tai":34,"TY":23}
 	minius2 : a2 -- {"Chris":2}
 }
 ```
+![img5](./images/dw1.jpg)
