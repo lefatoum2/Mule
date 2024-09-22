@@ -10,7 +10,7 @@
 ![img5](./images/image-2.png)
 
 ## SFTP
-Téléchargez le serveur SFTP de test 
+Téléchargez le serveur SFTP de test:
 https://www.rebex.net/tiny-sftp-server/#download
 
 ## Scatter-Gather
